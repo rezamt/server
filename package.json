@@ -18,7 +18,7 @@
     "book-git": "0.0.2",
     "book-raven": "1.2.0",
     "bookrc": "0.0.1",
-    "debug": "2.2.0",
+    "debug": "4.1.1",
     "express": "4.14.0",
     "http-proxy": "1.14.0",
     "localenv": "0.2.2",
